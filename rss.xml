@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[camwood]]></title>
-        <description><![CDATA[camwood]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Cam Wood Photography - Social Grid]]></title>
+        <description><![CDATA[Cam Wood Photography - Social Grid]]></description>
+        <link>https://thegrid.ai/camwood/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 17 Mar 2016 16:53:18 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 17 Mar 2016 17:01:01 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/camwood/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8cf7bb08-5ec5-4ccf-8ff4-d95544bc55d6.jpg">]]></description>
+            <link>https://thegrid.ai/camwood/bc1dcb7f-820a-4c08-9854-5a953298b827/index.html</link>
+            <guid isPermaLink="false">bc1dcb7f-820a-4c08-9854-5a953298b827</guid>
+            <pubDate>Thu, 17 Mar 2016 17:00:44 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Day One on The Grid]]></title>
             <description><![CDATA[<article><h1>Day One on The Grid</h1><p>I'm a bit skeptical. Can this platform offer enough flexibility for creative control freaks while automating workflow? Time will tell... </p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/859c7c08-ac81-4c62-8dc0-faf18ddc8de0.jpg"></article>]]></description>
-            <link>undefinedday-one-on-the-grid/index.html</link>
+            <link>https://thegrid.ai/camwood/day-one-on-the-grid/index.html</link>
             <guid isPermaLink="false">cb9b2c63-1662-46ed-8300-50b6896266e5</guid>
             <pubDate>Thu, 17 Mar 2016 16:53:17 GMT</pubDate>
         </item>
