@@ -1,4 +1,4 @@
-name: camwood
+name: Cam Wood Photography - Social Grid
 favicon: null
 layout_spectrum: 0.67878
 typography_spectrum: 0.79629
@@ -22,8 +22,8 @@ color:
     - '#dcd0e6'
     - '#2d3b5e'
     - '#e9a7ab'
-  brandStrength: 0.5625
-  lightness: 0.8347448837012053
-  saturation: 0.25696985493414104
-  rhythmicContrast: 0.18253608839586377
+  brandStrength: 0
+  lightness: 0.375
+  saturation: 0.3125
+  rhythmicContrast: 0.75
 purpose: []
