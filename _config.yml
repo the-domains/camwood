@@ -1,5 +1,8 @@
+name: Cam Wood Photography - Social Grid
+favicon: null
+layout_spectrum: 0.2468085
+typography_spectrum: 0.4382979
 title: Cam Wood Photography - Social Grid
-purpose: []
 collections:
   - index:
       path: /
@@ -12,30 +15,27 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-color:
-  saturation: 0.5340425
-  brandStrength: 1
-  lightness: 0.5638298
-  brandColors:
-    - '#030303'
-    - '#637ba9'
-    - '#dcd0e6'
-    - '#2d3b5e'
-    - '#e9a7ab'
-  rhythmicContrast: 0.1765957
 cta:
+  domain: null
   bucket: null
   version: null
-  domain: null
 analytics:
-  twitter: null
   google: null
   facebook: null
-favicon: null
-name: Cam Wood Photography - Social Grid
+  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
-typography_spectrum: 0.4382979
-layout_spectrum: 0.2468085
+color:
+  brandColors:
+    - '#030504'
+    - '#dfdbcf'
+    - '#3f473c'
+    - '#7d8790'
+    - '#b0b1a3'
+  brandStrength: 1
+  lightness: 0.5638298
+  saturation: 0.75
+  rhythmicContrast: 0.1765957
+purpose: []
